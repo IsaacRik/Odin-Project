@@ -1,0 +1,17 @@
+.container {
+    border: 5px solid red;
+    display: flex;
+}
+.container > div {
+    border: 5px solid green;
+}
+
+.home {
+    flex:1;
+}
+
+.Logout{
+    flex:1;
+}
+
+
